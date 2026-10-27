@@ -1,0 +1,8 @@
+# never commit the frozen copy, test pages, backups or secrets
+frozen/
+*_files/
+*.orig
+auth.json
+.env
+__pycache__/
+.venv/
